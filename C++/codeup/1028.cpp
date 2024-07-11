@@ -1,0 +1,15 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+  
+  unsigned int n;
+  cin >> n;
+  cout << n << endl;
+
+
+
+  return 0;
+}
